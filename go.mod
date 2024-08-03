@@ -1,4 +1,4 @@
-module github.com/irevenko/go-nyaa
+module github.com/OkabeZeroLink/koneko-alt
 
 go 1.15
 

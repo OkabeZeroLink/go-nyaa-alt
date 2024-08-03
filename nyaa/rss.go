@@ -1,7 +1,7 @@
 package nyaa
 
 import (
-	t "github.com/irevenko/go-nyaa/types"
+	t "github.com/OkabeZeroLink/go-nyaa-alt/types"
 	"github.com/mmcdole/gofeed"
 )
 

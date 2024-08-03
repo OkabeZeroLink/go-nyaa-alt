@@ -3,10 +3,10 @@ package nyaa
 import "fmt"
 
 const (
-	nyaaBaseURL    = "https://nyaa.si/?page=rss&q=+"
-	sukebeiBaseURL = "https://sukebei.nyaa.si/?page=rss&q=+"
-	nyaaView       = "https://nyaa.si/view/"
-	sukebeiView    = "https://sukebei.nyaa.si/view/"
+	nyaaBaseURL    = "https://nyaa.land/?page=rss&q=+"
+	sukebeiBaseURL = "https://fap.iss.one/?page=rss&q=+"
+	nyaaView       = "https://nyaa.land/view/"
+	sukebeiView    = "https://fap.iss.one/view/"
 
 	sortByComments  = "&s=comments&o=desc"
 	sortBySeeders   = "&s=seeders&o=desc"
